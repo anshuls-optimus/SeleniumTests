@@ -1,0 +1,17 @@
+2017-04-12 11:49:56,009 - SeleniumTest5 -INFO - opening webiste
+2017-04-12 11:50:41,170 - SeleniumTest5 -INFO - opening webiste
+2017-04-12 11:50:44,627 - SeleniumTest5 -INFO - opening webiste
+2017-04-12 11:50:44,707 - SeleniumTest5 -INFO - opening webiste
+2017-04-12 11:50:47,121 - SeleniumTest5 -INFO - exit
+2017-04-12 12:01:46,844 - SeleniumTest5 -INFO - starting Test
+2017-04-12 12:01:50,034 - SeleniumTest5 -INFO - logging in
+2017-04-12 12:02:01,484 - SeleniumTest5 -INFO - starting Test
+2017-04-12 12:02:04,602 - SeleniumTest5 -INFO - logging in
+2017-04-12 12:04:41,333 - SeleniumTest5 -INFO - view plans
+2017-04-12 12:04:41,788 - SeleniumTest5 -INFO - exporting values in xlsx file
+2017-04-12 12:04:44,263 - SeleniumTest5 -INFO - exit
+2017-04-12 12:07:55,977 - SeleniumTest5 -INFO - starting Test
+2017-04-12 12:07:58,653 - SeleniumTest5 -INFO - logging in
+2017-04-12 12:10:46,296 - SeleniumTest5 -INFO - view plans
+2017-04-12 12:10:46,742 - SeleniumTest5 -INFO - exporting values in xlsx file
+2017-04-12 12:10:49,156 - SeleniumTest5 -INFO - exit
